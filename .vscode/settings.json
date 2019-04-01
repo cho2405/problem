@@ -15,7 +15,12 @@
         "utility": "cpp",
         "vector": "cpp",
         "ios": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "functional": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
